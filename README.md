@@ -4,8 +4,8 @@ https://sites.google.com/site/hashcode2014/tasks
 
 ## Original sample
 
-[Doodle]: https://raw.githubusercontent.com/julien-amar/google-hashcode-2014/master/GoogleHashCode/Screenshots/Doodle.bmp "Doodle Sample"
+![Doodle Sample](https://raw.githubusercontent.com/julien-amar/google-hashcode-2014/master/GoogleHashCode/Screenshots/Doodle.bmp)
 
 ## Solution
 
-[Doodle]: https://raw.githubusercontent.com/julien-amar/google-hashcode-2014/master/GoogleHashCode/Screenshots/Final.bmp "Doodle Sample"
+![Doodle Solution](https://raw.githubusercontent.com/julien-amar/google-hashcode-2014/master/GoogleHashCode/Screenshots/Final.bmp)
