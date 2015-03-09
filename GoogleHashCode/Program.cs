@@ -140,8 +140,6 @@ namespace GoogleHashCode
                 matrix
                 .ToList()
                 .Where(x => x.Score != 0F)
-                .OrderByDescending(w => w.Size)
-                .ThenByDescending(w => w.Score)
                 .ToList();
 
             // Processing PRINTSQ instructions
@@ -152,6 +150,10 @@ namespace GoogleHashCode
 
             while (sorted.Any())
             {
+                sorted = sorted
+                    .OrderByDescending(w => w.ImpactedCells.Count(x => x.State == States.None))
+                    .ToList();
+
                 var first = sorted.FirstOrDefault();
                 if (first != null)
                 {
