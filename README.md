@@ -1,5 +1,5 @@
 # google-hashcode-2014
-Google HashCode 2014 - Training  Round  
+Google HashCode 2014 - Training  Round (Painting the Facade)
 
 **Site** : https://sites.google.com/site/hashcode2014/tasks  
 **Subject** : [Download](https://github.com/julien-amar/google-hashcode-2014/blob/master/Subject/Task%20Statement%20-%20Trial%20Round%20EN.pdf?raw=true)  
